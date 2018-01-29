@@ -1,0 +1,36 @@
+.navbar li {
+	display: inline-block;
+	text-align: center;
+
+}
+
+.itemLeft {	
+	/*width: 15%;	*/
+}
+
+.itemCenter {
+	/*width: 15%;*/
+}
+
+.itemRight {
+	/*width: 5%;	*/
+	/*text-align: center;*/
+	padding-left: 32%%;
+}
+
+.navbar {
+	background: green;
+	/*box-shadow: 0 3px 6px #999, 0 3px 6px #999;*/
+}
+
+li {
+	color: red;
+	/*size: 10px;
+	text-align: center;*/
+	padding: 0px 0;
+}
+
+body {
+	font-size: 50px;
+	/*text-align: center;*/
+}
